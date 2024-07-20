@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://caterbonc.github.io/sitemap
+Sitemap: https://caterbonc.github.io/app/sitemap
+Sitemap: https://caterbonc.github.io/assets/sitemap
+Sitemap: https://caterbonc.github.io/css/sitemap
+Sitemap: https://caterbonc.github.io/includes/sitemap
+Sitemap: https://caterbonc.github.io/item/sitemap
+Sitemap: https://caterbonc.github.io/src/sitemap
